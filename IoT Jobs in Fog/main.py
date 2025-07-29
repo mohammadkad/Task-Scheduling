@@ -6,6 +6,16 @@
 
 def main():
   # 1404-05-07
+  # Initialize components
+  # ...
+
+  # DDPG agent (state dim = job features + infra features)
+  job_feature_dim = ? # TODO, need to define.
+  infra_feature_dim = ? # TODO, need to define.
+
+
+  
+  
   print("\nFinal Results:")
   
 if __name__ == "__main__":
