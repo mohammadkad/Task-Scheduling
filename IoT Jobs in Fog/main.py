@@ -40,6 +40,25 @@ class Job:
         self.vcpu_per_sensor = random.uniform(MIN_vCPU_PER_SENSOR, MAX_vCPU_PER_SENSOR)
         self.mem_per_sensor = random.uniform(MIN_MEM_PER_SENSOR, MAX_MEM_PER_SENSOR)
 
+        self.vcpu_per_sensor = random.uniform(MIN_vCPU_PER_SENSOR, MAX_vCPU_PER_SENSOR)
+        self.mem_per_sensor = random.uniform(MIN_MEM_PER_SENSOR, MAX_MEM_PER_SENSOR)
+        
+        self.vcpu_fl_server = vCPU_PER_FL_SERVER
+        self.mem_fl_server = MEM_PER_FL_SERVER
+        self.epochs = FL_EPOCHS
+        self.model_size = MODEL_SIZE
+        self.training_freq = FL_TRAINING_FREQ
+        
+        '''
+        1404-05-14
+        creates a dictionary
+        keys are the sensor IDs and the values are the corresponding workload amounts.
+        Sample : [10, 9, 17, 4, 2, 7, 20, 11, 1]
+        {10: 82.21759472584355,  9: 80.87941444744027,  17: 480.7214997672905,  4: 253.56947236504593,2: 222.84119630022616,
+          7: 171.85296078505777,  20: 417.86771945341377,  11: 116.47288856759488,  1: 326.7232437094912}
+        '''
+        self.workloads = {s: random.uniform(50, 500) for s in self.sensors}  # MB/day
+
 
 def main():
   # 1404-05-07
@@ -62,5 +81,6 @@ def main():
   
 if __name__ == "__main__":
     main()
+
 
 
