@@ -113,6 +113,10 @@ class Job:
         
     '''
     1404-05-15
+    return a list of 28 (21 sensor + 7) item, 1 indicates that sensor is present & 0 indicates that sensor is absent
+    Sample:
+    [16, 11, 5, 6]
+    [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0.013159862001600412, 0.09805189717260446, 0.0001, 0.001, 20, 5, 0.6]
     '''
     def get_feature_vector(self):
         """Returns the feature vector for this job"""
@@ -153,6 +157,7 @@ def main():
   
 if __name__ == "__main__":
     main()
+
 
 
 
