@@ -25,6 +25,7 @@ MODEL_SIZE = 5                 # Size of FL model parameters in MB
 FL_TRAINING_FREQ = 0.6         # Fraction of time FL process needs to restart
 
 # Infrastructure resource capacities (from Table 5)
+# 14040-05-28, 'inf' made some problem for DDPG, TODO : need to fix.
 CLOUD_vCPU = float('inf')      # Cloud node has elastic vCPU capacity
 CLOUD_MEM = float('inf')       # Cloud node has elastic memory capacity
 FOG_vCPU = 4                   # Fog nodes have 4 vCPUs (ARM Cortex-A72)
@@ -56,4 +57,5 @@ NOISE_STD = 0.1                # Initial standard deviation for exploration nois
 NOISE_DECAY = 0.9995           # Decay rate for exploration noise
 
 # Task creation parameters
+
 SEGMENT_SIZE = 2 / (NUM_SENSORS * 10)
