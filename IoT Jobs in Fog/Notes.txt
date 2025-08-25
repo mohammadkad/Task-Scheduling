@@ -8,3 +8,7 @@ To-do:
 1- Read the original article
 2- Studying reference articles
 3- Creating an innovation based on the original article and other articles read
+
+
+4- Implement : 1-CloudIoTDeployer, 2-EdgeIoTDeployer, 3-GreedyDeployer # 1404-06-03
+
