@@ -1,1 +1,1 @@
-# Complete Edge-IoT deployetr with fallback mechanism and compare with original.
+- Complete Edge-IoT deployer with fallback mechanism and compare with original.
