@@ -1,0 +1,5 @@
+# Installation:
+# 1404-06-31
+# Mohammad Kadkhodaei
+# Tested, was ok, in anaconda env
+pip install -q git+https://github.com/EdgeSimPy/EdgeSimPy.git
