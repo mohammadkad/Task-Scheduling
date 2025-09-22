@@ -1,0 +1,3 @@
+# Help
+1. Install IntelliJ IDEA 2019.2 x64
+2. From C:\Users\MK\IdeaProjects\iFogSim\src\org\fog\test\perfeval, Run the example files (e.g. TranslationServiceFog_Clustering.java, CrowdSensing_Microservices_RandomMobility_Clustering.java) to get started
