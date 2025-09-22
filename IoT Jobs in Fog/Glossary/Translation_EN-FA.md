@@ -2,7 +2,7 @@
 - Cloud Computing
 - رایانش ابری
 - Fog computing
-- رایانش مه
+- رایانش مه، محاسبات مه
 - Edge computing
 - رایانش مرزی، رایانش لبه
 - 
