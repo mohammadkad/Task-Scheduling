@@ -3,7 +3,7 @@
 -->
 
 **Offloading**
-Offloading is the process of transferring a computational task (or part of it) from an end-user device (like a smartphone, IoT sensor, or smart car) to a resource-rich node in the fog layer or the cloud.
+is the process of transferring a computational task (or part of it) from an end-user device (like a smartphone, IoT sensor, or smart car) to a resource-rich node in the fog layer or the cloud.
 
 The primary goal is to overcome the limitations of the end device, such as:
 - Limited Processing Power (CPU)
