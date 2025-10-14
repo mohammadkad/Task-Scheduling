@@ -3,6 +3,7 @@
 
 ### Kalman filter:
 
+- The core problem it solves is: How do you get a **reliable estimate** of an **object's position** when your measurements (e.g., from a GPS or radar) are **noisy** and **unreliable**?
 - The Kalman Filter is an optimal recursive algorithm used for estimating the state of a linear dynamic system from a series of noisy measurements.
 - It is widely applied in robotics, navigation, finance and any field where accurate tracking and prediction from uncertain data is required.
 - The filter effectively fuses observed measurements with prior understanding of the system to provide more precise estimates.
