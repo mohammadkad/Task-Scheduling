@@ -10,3 +10,7 @@
 ### The Kalman Filter operates in a loop of two main steps:
 - Prediction: Estimate the next state using the current estimate (prior knowledge).
 - Update: Refine the prediction using the newly observed measurement, optimally balancing model prediction and new data.
+
+
+### Library:
+- https://pypi.org/project/filterpy/
