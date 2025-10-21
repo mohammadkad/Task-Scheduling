@@ -1,6 +1,6 @@
 <!-- Start Date: 1404-05-06 -->
 
-# Task-Scheduling
+# Task Scheduling, Task Offloading
 - Adaptive task scheduling, Resource Allocation, Application Placement in Edge and Fog Computing Environments
 - Deep Reinforcement Learning (DRL)
 - Mobile Edge Computing (MEC)
