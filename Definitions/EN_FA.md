@@ -1,3 +1,5 @@
+- Offloading <!-- 1404-08-21 -->
+- واگذاری
 
 - Cloud Computing
 - رایانش ابری
