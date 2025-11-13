@@ -1,3 +1,5 @@
+- Smart factory
+- کارخانه هوشمند
 - Federated learning
 - یادگیری فدرال
 - Offloading <!-- 1404-08-21 -->
