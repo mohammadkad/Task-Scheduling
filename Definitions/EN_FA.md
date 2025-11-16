@@ -1,3 +1,5 @@
+- cooperative <!-- 1404-08-25 -->
+- مشارکتی
 - Smart factory
 - کارخانه هوشمند
 - Federated learning
