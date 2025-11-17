@@ -1,3 +1,5 @@
+- Energy harvesting (EH) <!-- 1404-08-26 -->
+- کسب انرژی
 - cooperative <!-- 1404-08-25 -->
 - مشارکتی
 - Smart factory
