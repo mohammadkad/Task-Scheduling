@@ -7,7 +7,7 @@
 - Federated learning
 - یادگیری فدرال
 - Offloading <!-- 1404-08-21 -->
-- واگذاری
+- واگذاری، تخلیه بار
 
 - Cloud Computing
 - رایانش ابری
