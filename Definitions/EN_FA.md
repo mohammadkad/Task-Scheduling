@@ -1,5 +1,3 @@
-- Energy harvesting (EH) <!-- 1404-08-26 -->
-- کسب انرژی
 - cooperative <!-- 1404-08-25 -->
 - مشارکتی
 - Smart factory
@@ -8,11 +6,15 @@
 - یادگیری فدرال
 - Offloading <!-- 1404-08-21 -->
 - واگذاری، تخلیه بار
-
 - Cloud Computing
 - رایانش ابری
 - Fog computing
 - رایانش مه، محاسبات مه
 - Edge computing
 - رایانش مرزی، رایانش لبه
-- 
+
+
+- Energy harvesting (EH) <!-- 1404-08-26 -->
+- کسب انرژی
+- Congestion
+- ازدحام
