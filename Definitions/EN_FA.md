@@ -18,6 +18,8 @@
 - دستگاه لبه
 - Convex optimization
 - بهینه سازی محدب
+- Resource allocation
+- تخصیص منابع
 
 - Energy harvesting (EH) <!-- 1404-08-26 -->
 - کسب انرژی
