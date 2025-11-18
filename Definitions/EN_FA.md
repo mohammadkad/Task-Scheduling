@@ -25,3 +25,5 @@
 - کسب انرژی
 - Congestion
 - ازدحام
+- Shannon–Hartley theorem
+- قضیه شانون-هارتلی
