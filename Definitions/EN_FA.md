@@ -14,6 +14,8 @@
 - رایانش مه، محاسبات مه
 - Edge computing
 - رایانش مرزی، رایانش لبه
+- Edge device
+- دستگاه لبه
 
 
 - Energy harvesting (EH) <!-- 1404-08-26 -->
