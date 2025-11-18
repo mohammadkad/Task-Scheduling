@@ -16,7 +16,8 @@
 - رایانش مرزی، رایانش لبه
 - Edge device
 - دستگاه لبه
-
+- Convex optimization
+- بهینه سازی محدب
 
 - Energy harvesting (EH) <!-- 1404-08-26 -->
 - کسب انرژی
