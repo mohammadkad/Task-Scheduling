@@ -27,3 +27,5 @@
 - ازدحام
 - Shannon–Hartley theorem
 - قضیه شانون-هارتلی
+- Nash equilibrium
+- تعادل نش
