@@ -1,3 +1,5 @@
+- Multi-access edge computing (MEC), formerly mobile edge computing
+- محاسبات لبه چنددسترسی
 - straggler effect
 - اثر دیرکرد
 - cooperative <!-- 1404-08-25 -->
